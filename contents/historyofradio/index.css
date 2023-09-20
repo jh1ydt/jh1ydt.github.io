@@ -1,0 +1,17 @@
+.bl_colUnit__tall,
+.bl_colUnit__wide {
+	justify-content: space-evenly;
+	margin-bottom: 15px;
+}
+
+.bl_colUnit__tall>img {
+	height: 350px;
+}
+
+.bl_colUnit__wide>img {
+	height: 250px;
+}
+
+video {
+	width: 100%;
+}

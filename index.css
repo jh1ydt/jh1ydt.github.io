@@ -1,0 +1,21 @@
+/* PRECCS https://precss.io/ */
+/* ジャンボトロン */
+.bl_jumbotron {
+	background: no-repeat center/100% url(img/fdc9e4907d2a63ba887f33cfe78fb026.jpg);
+	height: 400px;
+	color: #FFF;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.bl_jumbotron_ttl {
+	font-size: xxx-large;
+	margin: 24px;
+}
+
+.bl_jumbotron_txt {
+	line-height: 24px;
+}
